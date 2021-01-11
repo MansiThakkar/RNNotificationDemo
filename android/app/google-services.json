@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385346198273",
+    "project_id": "logindemo-d330a",
+    "storage_bucket": "logindemo-d330a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385346198273:android:63ceb004b70f9bf7ca9900",
+        "android_client_info": {
+          "package_name": "com.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385346198273-p6sl3qu6su7fnuvel3uj1usv2n6gbff2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logindemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "385346198273-100gou2tovee9gmh0o3rstjjo8cfuh2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8foh7O0-VO3cqYbVjG6wLGpIQgTTsgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385346198273-100gou2tovee9gmh0o3rstjjo8cfuh2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
